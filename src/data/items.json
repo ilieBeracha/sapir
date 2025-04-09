@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "price": 89.99,
+      "image": "https://example.com/images/headphones.jpg",
+      "category": "Electronics",
+      "description": "Noise-cancelling over-ear headphones with 20h battery life."
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch",
+      "price": 129.99,
+      "image": "https://example.com/images/smartwatch.jpg",
+      "category": "Electronics",
+      "description": "Fitness tracker with heart rate monitor and GPS."
+    },
+    {
+      "id": 3,
+      "name": "Cotton T-Shirt",
+      "price": 19.99,
+      "image": "https://example.com/images/tshirt.jpg",
+      "category": "Clothing",
+      "description": "100% cotton T-shirt with a relaxed fit."
+    },
+    {
+      "id": 4,
+      "name": "Gaming Mouse",
+      "price": 49.99,
+      "image": "https://example.com/images/mouse.jpg",
+      "category": "Accessories",
+      "description": "RGB gaming mouse with programmable buttons."
+    },
+    {
+      "id": 5,
+      "name": "Espresso Machine",
+      "price": 249.99,
+      "image": "https://example.com/images/espresso.jpg",
+      "category": "Home Appliances",
+      "description": "Compact espresso machine with milk frother."
+    },
+    {
+      "id": 6,
+      "name": "Yoga Mat",
+      "price": 25.00,
+      "image": "https://example.com/images/yogamat.jpg",
+      "category": "Fitness",
+      "description": "Eco-friendly non-slip yoga mat for all workouts."
+    },
+    {
+      "id": 7,
+      "name": "Bluetooth Speaker",
+      "price": 59.99,
+      "image": "https://example.com/images/speaker.jpg",
+      "category": "Electronics",
+      "description": "Portable waterproof speaker with 12h playtime."
+    },
+    {
+      "id": 8,
+      "name": "Leather Wallet",
+      "price": 39.95,
+      "image": "https://example.com/images/wallet.jpg",
+      "category": "Accessories",
+      "description": "Genuine leather wallet with RFID protection."
+    },
+    {
+      "id": 9,
+      "name": "Cookware Set",
+      "price": 179.00,
+      "image": "https://example.com/images/cookware.jpg",
+      "category": "Kitchen",
+      "description": "10-piece non-stick cookware set with glass lids."
+    },
+    {
+      "id": 10,
+      "name": "LED Desk Lamp",
+      "price": 34.99,
+      "image": "https://example.com/images/desklamp.jpg",
+      "category": "Home",
+      "description": "Adjustable LED lamp with USB charging port."
+    }
+  ]
+  

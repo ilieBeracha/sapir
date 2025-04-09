@@ -1,0 +1,33 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.header{
+  height: 5vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-sizing: border-box;
+  padding-left: 100px;
+  padding-right: 100px;
+  width: 100%;
+}
+
+.view{
+  padding-top: 20px;
+  width: 100%;
+  min-height: 95vh;
+  width: 100vw;
+  background-color: azure;
+}
+
+.shop{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.item{
+  width: 25%;
+  height: 300px;
+}
